@@ -7,5 +7,6 @@
 - C и C++
 - Java
 - Go
+- Docker
 #
 [VK](https://vk.com/imducked) 
