@@ -9,4 +9,4 @@
 - Go
 - Docker
 #
-[VK](https://vk.com/imducked) • [Habr Q&A](https://qna.habr.com/user/imducked)
+[VK](https://vk.com/imducked) • [Habr Q&A](https://qna.habr.com/user/imducked) • [Telegram](https://t.me/imducked)
