@@ -2,7 +2,7 @@
 ### Изучаю: 
 - TypeScript
 - Git
-- C и C++
+- C# и C++
 - Java
 - Go
 - Docker
