@@ -1,10 +1,10 @@
-## Знаю языки, такие как: Python, CSS, PHP, JS и другие
+## Знаю языки, такие как: Python, JS, TS, PHP, и другие
 ### Изучаю: 
-- TypeScript
-- Git
-- C# и C++
-- Java
-- Go
-- Docker
+- Git (30%)
+- C# (в стадии изучения) и C++ (10%)
+- Java (30%)
+- Go (в стадии изучения)
+- Docker (в стадии изучения) 
 #
+## Насчет сотрудничества: 
 [Habr Q&A](https://qna.habr.com/user/imducked)
